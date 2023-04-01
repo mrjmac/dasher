@@ -1,6 +1,6 @@
 # dasher
 
-A neat 2d game
+A 2d game
 
 Not much depth to it, but works pretty well
 
