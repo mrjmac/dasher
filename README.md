@@ -1,8 +1,8 @@
 # dasher
 
-A 2d game
+A 2D game
 
-Not much depth to it, but works pretty well
+Not much depth to it, but works well
 
 Source code included, but you can download the exe given(make sure you also download the matching pck)
 
