@@ -4,7 +4,7 @@ A 2D game
 
 Not much depth to it, but works well
 
-Source code included, but you can download the exe given(make sure you also download the matching pck)
+Source code included, but you can download the exe and pck from the repo
 
 Alternatively, download at: https://mrjmac.itch.io/dasher
 
